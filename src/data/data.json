@@ -1,0 +1,81 @@
+{
+  "notifications": [
+    {
+      "active": true,
+      "profile_picture": "/images/mark.webp",
+      "name": "Mark Webber",
+      "initial": "reacted to your recent post",
+      "post_name": "My first tournament today!",
+      "club_name": "",
+      "message": "",
+      "post_picture": "",
+      "time": "1m"
+    },
+    {
+      "active": true,
+      "profile_picture": "/images/angela.webp",
+      "name": "Angela Gray",
+      "initial": "followed you",
+      "post_name": "",
+      "club_name": "",
+      "message": "",
+      "post_picture": "",
+      "time": "5m"
+    },
+    {
+      "active": true,
+      "profile_picture": "/images/jacob.webp",
+      "name": "Jacob Thompson",
+      "initial": "has joined your group",
+      "post_name": "",
+      "club_name": "Chess Club",
+      "message": "",
+      "post_picture": "",
+      "time": "1 day"
+    },
+    {
+      "active": false,
+      "profile_picture": "/images/rizky.webp",
+      "name": "Rizky Hasanuddin",
+      "initial": "sent you a private message",
+      "post_name": "",
+      "club_name": "",
+      "message": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+      "post_picture": "",
+      "time": "5 days"
+    },
+    {
+      "active": false,
+      "profile_picture": "/images/kimberly.webp",
+      "name": "Kimberly Smith",
+      "initial": "commented on your picture",
+      "post_name": "",
+      "club_name": "",
+      "message": "",
+      "post_picture": "/images/image-chess.webp",
+      "time": "1 week"
+    },
+    {
+      "active": false,
+      "profile_picture": "/images/nathan.webp",
+      "name": "Nathan Peterson",
+      "initial": "reacted to your recent post",
+      "post_name": "5 end-game strategies to increase your win rate",
+      "club_name": "",
+      "message": "",
+      "post_picture": "",
+      "time": "2 weeks"
+    },
+    {
+      "active": false,
+      "profile_picture": "/images/anna.webp",
+      "name": "Anna Kim",
+      "initial": "left the group",
+      "post_name": "",
+      "club_name": "Chess Club",
+      "message": "",
+      "post_picture": "",
+      "time": "2 weeks"
+    }
+  ]
+}
